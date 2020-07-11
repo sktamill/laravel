@@ -45,6 +45,8 @@
     </div>
 </nav>
 
+test test
+
 <div class="container">
     <div class="starter-template">
         @if(session()->has('success'))
