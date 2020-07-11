@@ -51,7 +51,6 @@ test test test test
 
 tree 2 tree 2
 
-
 <div class="container">
     <div class="starter-template">
         @if(session()->has('success'))
